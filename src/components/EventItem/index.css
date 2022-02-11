@@ -1,0 +1,26 @@
+.each-event-card {
+  width: 40%;
+  margin: 15px;
+}
+
+.event-image {
+  width: 100%;
+}
+
+.event-button {
+  width: 80%;
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.event-name {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  padding: 0px;
+}
+
+.event-location {
+  color: #ffffff;
+  font-family: 'Roboto';
+}

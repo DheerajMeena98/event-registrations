@@ -1,0 +1,23 @@
+.events-bcg-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  background-color: #64748b;
+}
+
+.events-container {
+  width: 65%;
+}
+
+.events-heading {
+  margin-left: 15px;
+  color: #ffffff;
+}
+
+.events-unordered-container {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

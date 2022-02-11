@@ -1,0 +1,40 @@
+.active-registration-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  background-color: #ffffff;
+}
+
+.register-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 70%;
+}
+
+.registration-card-image {
+  width: 80%;
+}
+
+.register-here-button {
+  height: 35px;
+  color: #ffffff;
+  background-color: #0967d2;
+  width: 100%;
+  border: 0px;
+  border-radius: 15px;
+}
+
+.registration-details-description {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 18px;
+  width: 100%;
+}
+
+.registrations-status-heading {
+  font-size: 23px;
+}
